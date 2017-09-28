@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AtilanoQuiz1</string>
+
+    <string-array name="codename">
+        <item>Android Marshmallow</item>
+        <item>Android Nougat</item>
+        <item>Android Oreo</item>
+    </string-array>
+
+    <string-array name="version">
+        <item>Version 6.0</item>
+        <item>Version 7.0</item>
+        <item>Version 8.0</item>
+    </string-array>
+
+    <string-array name="api">
+        <item>API 23</item>
+        <item>API 24 - 25</item>
+        <item>API 26</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Released October 5, 2015</item>
+        <item>Released August 22, 2016</item>
+        <item>Released August 21, 2017</item>
+    </string-array>
+
+</resources>
